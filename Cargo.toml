@@ -1,5 +1,5 @@
 [package]
-name = "hello-rust"
+name = "tutorial"
 version = "0.1.0"
 authors = ["okatechnology"]
 edition = "2018"
